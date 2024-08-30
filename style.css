@@ -1,0 +1,239 @@
+.logo {
+  display: block;
+  margin: auto;
+  height: 41px;
+  width: 182px;
+}
+.header {
+  padding-bottom: 50px;
+  padding-top: 12px;
+}
+.main_txt {
+  text-align: center;
+  font-weight: 50;
+  letter-spacing: -1.12px;
+  font-size: 56px;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica,
+    sans-serif;
+  box-sizing: border-box;
+}
+
+.snd_txt_container {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  color: rgb(17, 17, 17);
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica,
+    sans-serif;
+  font-size: 10pt;
+  font-weight: 100;
+  letter-spacing: -0.16px;
+  line-height: -0.008em;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 40px;
+  max-width: 100%;
+  text-align: center;
+  text-rendering: optimizelegibility;
+  -moz-osx-font-smoothing: grayscale;
+}
+.login {
+  background-color: rgb(255, 255, 255);
+  border-bottom-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px 0px;
+  width: 40%;
+  padding-bottom: 70px;
+  border-radius: 24px;
+  padding-top: 20px;
+  font-size: 1.25rem;
+}
+.username {
+  box-sizing: border-box;
+  text-align: justify;
+  margin: auto;
+  margin-left: 5%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  width: 90%;
+  font-size: 1rem;
+  padding: 10px 10px 20px 5px;
+  margin-bottom: 16px;
+  align-items: center;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica,
+    sans-serif;
+  font-weight: 100;
+}
+
+.username:focus {
+  border: 3px solid green;
+  outline: none;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+}
+.label_user {
+  font-size: 10pt;
+  margin-left: 5%;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica,
+    sans-serif;
+  font-weight: 100;
+  padding-bottom: 15px;
+  font-weight: bold;
+}
+.main_logo img {
+  filter: invert(38%) sepia(86%) saturate(354%) hue-rotate(49deg)
+    brightness(102%) contrast(91%);
+}
+.remember {
+  transform: scale(1.5);
+  margin-left: 5%;
+  margin-right: 1%;
+}
+.para {
+  margin-top: -5%;
+  margin-left: 11%;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica,
+    sans-serif;
+  font-weight: 400;
+  font-size: 12pt;
+}
+.check_label {
+  margin-left: 1%;
+}
+.cont {
+  display: block;
+  margin: auto;
+  width: 70%;
+  height: 25%;
+  border-radius: 20px;
+  color: white;
+  background-color: green;
+  margin-top: 50px;
+}
+.user_pass {
+  display: flex;
+  justify-content: center;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica,
+    sans-serif;
+}
+.ton_links {
+  display: flex;
+  justify-content: space-evenly;
+  width: 80%;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica;
+  font-size: 10pt;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: auto;
+  padding: 0px;
+  letter-spacing: -0.008em;
+  text-rendering: optimizeLegibility;
+  row-gap: 12px;
+  column-gap: 16px;
+}
+
+.ton_links1:link {
+  color: grey;
+  text-decoration: none;
+}
+
+.ton_links1:hover {
+  text-decoration: underline;
+}
+
+.ton_links1:visited {
+  color: grey;
+}
+
+.ton_links2:link {
+  color: grey;
+  text-decoration: none;
+}
+
+.ton_links2:hover {
+  text-decoration: underline;
+}
+.ton_links2:visited {
+  color: grey;
+}
+
+.ton_links3:link {
+  color: grey;
+  text-decoration: none;
+}
+
+.ton_links3:hover {
+  text-decoration: underline;
+}
+.ton_links3:visited {
+  color: grey;
+}
+
+.ton_links4:link {
+  color: grey;
+  text-decoration: none;
+}
+
+.ton_links4:hover {
+  text-decoration: underline;
+}
+.ton_links4:visited {
+  color: grey;
+}
+
+.ton_links5:link {
+  color: grey;
+  text-decoration: none;
+}
+
+.ton_links5:hover {
+  text-decoration: underline;
+}
+.ton_links5:visited {
+  color: grey;
+}
+
+.ton_links6:link {
+  color: grey;
+  text-decoration: none;
+}
+
+.ton_links6:hover {
+  text-decoration: underline;
+}
+.ton_links6:visited {
+  color: grey;
+}
+
+.ton_links7:link {
+  color: grey;
+  text-decoration: none;
+}
+
+.ton_links7:hover {
+  text-decoration: underline;
+}
+.ton_links7:visited {
+  color: grey;
+}
+
+.ton_links8:link {
+  color: grey;
+  text-decoration: none;
+}
+
+.ton_links8:hover {
+  text-decoration: underline;
+}
+.ton_links8:visited {
+  color: grey;
+}
+
