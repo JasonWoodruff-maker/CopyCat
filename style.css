@@ -84,9 +84,8 @@
   margin-left: 5%;
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica,
     sans-serif;
-  font-weight: 100;
+  font-weight: 450;
   padding-bottom: 15px;
-  font-weight: bold;
 }
 .main_logo img {
   filter: invert(38%) sepia(86%) saturate(354%) hue-rotate(49deg)
@@ -237,3 +236,40 @@
   color: grey;
 }
 
+.cont_cont {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: auto;
+  text-align: center;
+  font-size: 14px;
+  letter-spacing: -0.112px;
+  margin-top: 64px;
+}
+.last_txt {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  font-size: 10pt;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica,
+    sans-serif;
+  font-weight: 400;
+}
+.info {
+  display: flex;
+  justify-content: center;
+
+  margin: auto;
+  text-align: center;
+  font-size: 10pt;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica,
+    sans-serif;
+  font-weight: 400;
+}
+
+.last_pic {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 70px;
+}
