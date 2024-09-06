@@ -88,7 +88,7 @@
   font-weight: 450;
   padding-bottom: 15px;
 }
-.main_logo img {
+.logo{
   filter: invert(38%) sepia(86%) saturate(354%) hue-rotate(49deg)
     brightness(102%) contrast(91%);
 }
@@ -139,7 +139,6 @@
   row-gap: 12px;
   column-gap: 16px;
   padding-top: 30px;
-  margin-top: 10vh;
 }
 
 .ton_links1:link {
@@ -279,5 +278,5 @@
   margin-bottom: 70px;
 }
 .year{
-  margin-top: 5vh;
+  margin-top: 20px;
 }
