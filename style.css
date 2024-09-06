@@ -5,14 +5,15 @@
   width: 182px;
 }
 .header {
-  padding-bottom: 50px;
+  padding-bottom: 40px;
   padding-top: 12px;
 }
 .main_txt {
   text-align: center;
   font-weight: 50;
   letter-spacing: -1.12px;
-  font-size: 56px;
+  font-weight: 100;
+  font-size: 54px;
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica,
     sans-serif;
   box-sizing: border-box;
@@ -46,9 +47,9 @@
   border-top-right-radius: 24px;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px 0px;
   width: 40%;
-  padding-bottom: 70px;
+  padding-bottom: 50px;
   border-radius: 24px;
-  padding-top: 20px;
+  padding-top: 30px;
   font-size: 1.25rem;
 }
 .username {
@@ -137,6 +138,7 @@
   text-rendering: optimizeLegibility;
   row-gap: 12px;
   column-gap: 16px;
+  padding-top: 30px;
 }
 
 .ton_links1:link {
@@ -245,6 +247,7 @@
   font-size: 14px;
   letter-spacing: -0.112px;
   margin-top: 64px;
+  padding-bottom: 30px;
 }
 .last_txt {
   display: flex;
