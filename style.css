@@ -46,10 +46,10 @@
   border-top-left-radius: 24px;
   border-top-right-radius: 24px;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px 0px;
-  width: 40%;
+  width: 40vw;
   padding-bottom: 50px;
   border-radius: 24px;
-  padding-top: 30px;
+  padding-top: 40px;
   font-size: 1.25rem;
 }
 .username {
@@ -127,18 +127,19 @@
 .ton_links {
   display: flex;
   justify-content: space-evenly;
-  width: 80%;
+  width: 80vw;
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica;
   font-size: 10pt;
   flex-direction: row;
   flex-wrap: wrap;
   margin: auto;
-  padding: 0px;
+  padding-bottom: 40px;
   letter-spacing: -0.008em;
   text-rendering: optimizeLegibility;
   row-gap: 12px;
   column-gap: 16px;
   padding-top: 30px;
+  margin-top: 10vh;
 }
 
 .ton_links1:link {
@@ -246,7 +247,7 @@
   text-align: center;
   font-size: 14px;
   letter-spacing: -0.112px;
-  margin-top: 64px;
+  margin-top: 8vh;
   padding-bottom: 30px;
 }
 .last_txt {
@@ -269,10 +270,14 @@
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, Helvetica,
     sans-serif;
   font-weight: 400;
+  
 }
 
 .last_pic {
   display: flex;
   justify-content: center;
   margin-bottom: 70px;
+}
+.year{
+  margin-top: 5vh;
 }
